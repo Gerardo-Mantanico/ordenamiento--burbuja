@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/Ordenamiendo-burbuja/cmake-build-debug/CMakeFiles/Ordenamiendo_burbuja.dir
+C:/Users/HP/CLionProjects/Ordenamiendo-burbuja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/Ordenamiendo-burbuja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
